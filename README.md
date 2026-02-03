@@ -24,7 +24,7 @@ This analysis identified material inconsistencies between reported percentile th
 The findings contributed to public scrutiny and legislative reconsideration of the statewide hazard framework.
 
 🔗 **View Project:**  
-[Wildfire Hazard Analysis](./wildfireHazardAnalysis)
+[Wildfire Hazard Analysis](https://github.com/DataZenith/wildfireHazardAnalysis))
 
 
 ---
