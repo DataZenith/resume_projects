@@ -24,7 +24,7 @@ This analysis identified material inconsistencies between reported percentile th
 The findings contributed to public scrutiny and legislative reconsideration of the statewide hazard framework.
 
 🔗 **View Project:**  
-[Wildfire Hazard Analysis](https://github.com/DataZenith/wildfireHazardAnalysis))
+[Wildfire Hazard Analysis](https://github.com/DataZenith/wildfireHazardAnalysis)
 
 
 ---
@@ -42,7 +42,7 @@ Portfolio-level probability of default (PD) calibration framework designed to im
 This project demonstrates applied financial risk modeling techniques used in regulatory and portfolio environments.
 
 🔗 **View Project:**  
-[CECL PD Threshold Project](./cecl-threshold-project-folder-name)
+[CECL PD Threshold Project](https://github.com/DataZenith/resume_projects/blob/main/cecl_thresholds.py)
 
 
 ---
